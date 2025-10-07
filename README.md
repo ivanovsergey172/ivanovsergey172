@@ -1,5 +1,10 @@
 ## Hi there, nice to meet you! 👋
 
+About me:
+I'm a developer from Salzburg, Austria
+
+###
+
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
