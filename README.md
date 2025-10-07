@@ -1,4 +1,4 @@
-## Hi there, nice to meet you! 👋
+## Hi there, I'm Sergey! Nice to meet you! 👋
 
 <p align="left">📌 I'm a developer from Salzburg, Austria<br><br>👨🏻‍💻 Currently doing the full-stack course at Developer Akademie</p>
 
