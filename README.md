@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, nice to meet you! 👋
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
