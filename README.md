@@ -1,7 +1,14 @@
 ## Hi there, nice to meet you! 👋
 
-About me:
-I'm a developer from Salzburg, Austria
+<p align="left">📌 I'm a developer from Salzburg, Austria<br><br>👨🏻‍💻 Currently doing the full-stack course at Developer Akademie</p>
+
+###
+
+<h3 align="left">About me:</h3>
+
+###
+
+<p align="left">💼 Work: IT-Application Manager<br><br>✨ Hobbies and interests: <br>- programming 👨🏻‍💻<br>- gaming 🎮<br>- photography 📸<br>- reading 📚<br>- music 🎧<br>- travelling 🌎<br><br>💡 Interesting fact: I'm a big car guy and motorsport fan 🏁🏎️💨</p>
 
 ###
 
@@ -11,7 +18,7 @@ I'm a developer from Salzburg, Austria
 
 ###
 
-<p align="left">Languages and programs I use:</p>
+<h4 align="left">Languages and programs I use:</h4>
 
 ###
 
@@ -31,7 +38,7 @@ I'm a developer from Salzburg, Austria
 
 ###
 
-<p align="left">Contact me here:</p>
+<h4 align="left">Contact me here:</h4>
 
 ###
 
