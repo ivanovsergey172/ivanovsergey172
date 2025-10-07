@@ -12,7 +12,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
@@ -43,7 +43,9 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://discordapp.com/users/sergeyivanov_41049" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
