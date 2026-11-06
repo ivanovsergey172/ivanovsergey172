@@ -32,12 +32,6 @@
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/ivanovsergey172/ivanovsergey172/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 data-importer="text" align="left">Contact me here:</h2>
 
 ###
@@ -45,9 +39,5 @@
 <div data-importer="socials" align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/ivanovsergey172/ivanovsergey172/snake-output/snake.svg" alt="Snake animation" />
 
 ###
