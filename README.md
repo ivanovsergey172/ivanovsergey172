@@ -12,12 +12,6 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
 <h4 align="left">Languages and programs I use:</h4>
 
 ###
